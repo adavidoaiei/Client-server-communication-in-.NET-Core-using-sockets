@@ -14,3 +14,4 @@ D:\ClientServerNetCore\ClientServer\Client\bin\Debug\netcoreapp1.1\Client.pdb
 D:\ClientServerNetCore\ClientServer\Client\obj\Debug\netcoreapp1.1\Client.AssemblyInfo.cs
 D:\ClientServerNetCore\ClientServer\Client\obj\Debug\netcoreapp1.1\Client.dll
 D:\ClientServerNetCore\ClientServer\Client\obj\Debug\netcoreapp1.1\Client.pdb
+D:\ClientServerNetCore\ClientServer\Client\obj\Debug\netcoreapp1.1\Client.csprojResolveAssemblyReference.cache

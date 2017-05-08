@@ -8,7 +8,7 @@ namespace Client
     class Client
     {
 
-        private static System.Net.Sockets.TcpListener listener { get; set; }
+        private static TcpListener listener { get; set; }
         private static bool accept { get; set; } = false;
         public static void Listen()
         {
