@@ -6,3 +6,11 @@ c:\users\corneladavidoaiei\documents\visual studio 2017\Projects\ClientServer\Cl
 c:\users\corneladavidoaiei\documents\visual studio 2017\Projects\ClientServer\ClientServer\obj\Debug\netcoreapp1.1\Server.AssemblyInfo.cs
 c:\users\corneladavidoaiei\documents\visual studio 2017\Projects\ClientServer\ClientServer\obj\Debug\netcoreapp1.1\Server.dll
 c:\users\corneladavidoaiei\documents\visual studio 2017\Projects\ClientServer\ClientServer\obj\Debug\netcoreapp1.1\Server.pdb
+D:\ClientServerNetCore\ClientServer\ClientServer\bin\Debug\netcoreapp1.1\Server.deps.json
+D:\ClientServerNetCore\ClientServer\ClientServer\bin\Debug\netcoreapp1.1\Server.runtimeconfig.json
+D:\ClientServerNetCore\ClientServer\ClientServer\bin\Debug\netcoreapp1.1\Server.runtimeconfig.dev.json
+D:\ClientServerNetCore\ClientServer\ClientServer\bin\Debug\netcoreapp1.1\Server.dll
+D:\ClientServerNetCore\ClientServer\ClientServer\bin\Debug\netcoreapp1.1\Server.pdb
+D:\ClientServerNetCore\ClientServer\ClientServer\obj\Debug\netcoreapp1.1\Server.AssemblyInfo.cs
+D:\ClientServerNetCore\ClientServer\ClientServer\obj\Debug\netcoreapp1.1\Server.dll
+D:\ClientServerNetCore\ClientServer\ClientServer\obj\Debug\netcoreapp1.1\Server.pdb

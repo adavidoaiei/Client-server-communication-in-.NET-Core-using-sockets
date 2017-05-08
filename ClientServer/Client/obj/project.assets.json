@@ -7080,10 +7080,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\corneladavidoaiei\\documents\\visual studio 2017\\Projects\\ClientServer\\Client\\Client.csproj",
+      "projectUniqueName": "D:\\ClientServerNetCore\\ClientServer\\Client\\Client.csproj",
       "projectName": "Client",
-      "projectPath": "c:\\users\\corneladavidoaiei\\documents\\visual studio 2017\\Projects\\ClientServer\\Client\\Client.csproj",
-      "outputPath": "c:\\users\\corneladavidoaiei\\documents\\visual studio 2017\\Projects\\ClientServer\\Client\\obj\\",
+      "projectPath": "D:\\ClientServerNetCore\\ClientServer\\Client\\Client.csproj",
+      "outputPath": "D:\\ClientServerNetCore\\ClientServer\\Client\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
