@@ -24,7 +24,7 @@ namespace Server
         public static void Main(string[] args)
         {
             // Start the server  
-            StartServer(5678);
+            StartServer(1400);
             Console.ReadKey();
         }
     }

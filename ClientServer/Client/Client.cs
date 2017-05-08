@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Net;
+using System.Net.Sockets;
 using System.Text;
 
 namespace Client
@@ -10,6 +12,10 @@ namespace Client
         private static bool accept { get; set; } = false;
         public static void Listen()
         {
+            int port = 1400;
+            IPAddress address = IPAddress.Parse("127.0.0.1");
+            listener = new TcpListener(address, port);
+
             if (listener != null && accept)
             {
 
