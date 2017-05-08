@@ -1,0 +1,8 @@
+D:\ClientServerNetCore\ClientServer\ClientServer\bin\Release\netcoreapp1.1\Server.deps.json
+D:\ClientServerNetCore\ClientServer\ClientServer\bin\Release\netcoreapp1.1\Server.runtimeconfig.json
+D:\ClientServerNetCore\ClientServer\ClientServer\bin\Release\netcoreapp1.1\Server.runtimeconfig.dev.json
+D:\ClientServerNetCore\ClientServer\ClientServer\bin\Release\netcoreapp1.1\Server.dll
+D:\ClientServerNetCore\ClientServer\ClientServer\bin\Release\netcoreapp1.1\Server.pdb
+D:\ClientServerNetCore\ClientServer\ClientServer\obj\Release\netcoreapp1.1\Server.AssemblyInfo.cs
+D:\ClientServerNetCore\ClientServer\ClientServer\obj\Release\netcoreapp1.1\Server.dll
+D:\ClientServerNetCore\ClientServer\ClientServer\obj\Release\netcoreapp1.1\Server.pdb
