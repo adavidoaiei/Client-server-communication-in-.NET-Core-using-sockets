@@ -18,7 +18,7 @@ namespace ConsoleApplication
             listener.Start();
             accept = true;
 
-            Console.WriteLine($"Server started. Listening to TCP clients at 127.0.0.1:{port}");
+            Console.WriteLine($"Server Socket started. Listening to TCP clients at 127.0.0.1:{port}");
         }
 
         public static void Listen()
@@ -50,7 +50,6 @@ namespace ConsoleApplication
                             Console.WriteLine(message);
                         }
                         Console.WriteLine("Closing connection.");
-                        client.GetStream().Dispose();
                     }
                 }
             }

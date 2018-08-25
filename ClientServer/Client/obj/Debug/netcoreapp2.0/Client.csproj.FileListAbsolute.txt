@@ -1,0 +1,11 @@
+C:\Users\adavidoaiei\Downloads\ClientServerTcpIpNetCore\ClientServer\Client\bin\Debug\netcoreapp2.0\Client.deps.json
+C:\Users\adavidoaiei\Downloads\ClientServerTcpIpNetCore\ClientServer\Client\bin\Debug\netcoreapp2.0\Client.runtimeconfig.json
+C:\Users\adavidoaiei\Downloads\ClientServerTcpIpNetCore\ClientServer\Client\bin\Debug\netcoreapp2.0\Client.runtimeconfig.dev.json
+C:\Users\adavidoaiei\Downloads\ClientServerTcpIpNetCore\ClientServer\Client\bin\Debug\netcoreapp2.0\Client.dll
+C:\Users\adavidoaiei\Downloads\ClientServerTcpIpNetCore\ClientServer\Client\bin\Debug\netcoreapp2.0\Client.pdb
+C:\Users\adavidoaiei\Downloads\ClientServerTcpIpNetCore\ClientServer\Client\obj\Debug\netcoreapp2.0\Client.csprojResolveAssemblyReference.cache
+C:\Users\adavidoaiei\Downloads\ClientServerTcpIpNetCore\ClientServer\Client\obj\Debug\netcoreapp2.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\adavidoaiei\Downloads\ClientServerTcpIpNetCore\ClientServer\Client\obj\Debug\netcoreapp2.0\Client.AssemblyInfoInputs.cache
+C:\Users\adavidoaiei\Downloads\ClientServerTcpIpNetCore\ClientServer\Client\obj\Debug\netcoreapp2.0\Client.AssemblyInfo.cs
+C:\Users\adavidoaiei\Downloads\ClientServerTcpIpNetCore\ClientServer\Client\obj\Debug\netcoreapp2.0\Client.dll
+C:\Users\adavidoaiei\Downloads\ClientServerTcpIpNetCore\ClientServer\Client\obj\Debug\netcoreapp2.0\Client.pdb

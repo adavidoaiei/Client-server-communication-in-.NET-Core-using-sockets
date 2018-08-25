@@ -7,3 +7,14 @@ D:\ClientServerNetCore\ClientServer\Client\bin\Debug\netcoreapp1.1\Client.dll
 D:\ClientServerNetCore\ClientServer\Client\bin\Debug\netcoreapp1.1\Client.pdb
 D:\ClientServerNetCore\ClientServer\Client\obj\Debug\netcoreapp1.1\Client.dll
 D:\ClientServerNetCore\ClientServer\Client\obj\Debug\netcoreapp1.1\Client.pdb
+C:\Users\adavidoaiei\Downloads\ClientServerTcpIpNetCore\ClientServer\Client\bin\Debug\netcoreapp1.1\Client.deps.json
+C:\Users\adavidoaiei\Downloads\ClientServerTcpIpNetCore\ClientServer\Client\bin\Debug\netcoreapp1.1\Client.runtimeconfig.json
+C:\Users\adavidoaiei\Downloads\ClientServerTcpIpNetCore\ClientServer\Client\bin\Debug\netcoreapp1.1\Client.runtimeconfig.dev.json
+C:\Users\adavidoaiei\Downloads\ClientServerTcpIpNetCore\ClientServer\Client\bin\Debug\netcoreapp1.1\Client.dll
+C:\Users\adavidoaiei\Downloads\ClientServerTcpIpNetCore\ClientServer\Client\bin\Debug\netcoreapp1.1\Client.pdb
+C:\Users\adavidoaiei\Downloads\ClientServerTcpIpNetCore\ClientServer\Client\obj\Debug\netcoreapp1.1\Client.csproj.CoreCompileInputs.cache
+C:\Users\adavidoaiei\Downloads\ClientServerTcpIpNetCore\ClientServer\Client\obj\Debug\netcoreapp1.1\Client.AssemblyInfoInputs.cache
+C:\Users\adavidoaiei\Downloads\ClientServerTcpIpNetCore\ClientServer\Client\obj\Debug\netcoreapp1.1\Client.AssemblyInfo.cs
+C:\Users\adavidoaiei\Downloads\ClientServerTcpIpNetCore\ClientServer\Client\obj\Debug\netcoreapp1.1\Client.dll
+C:\Users\adavidoaiei\Downloads\ClientServerTcpIpNetCore\ClientServer\Client\obj\Debug\netcoreapp1.1\Client.pdb
+C:\Users\adavidoaiei\Downloads\ClientServerTcpIpNetCore\ClientServer\Client\obj\Debug\netcoreapp1.1\Client.csprojResolveAssemblyReference.cache
