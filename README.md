@@ -1,4 +1,4 @@
 # ClientServerNetCore
 
-<img src="https://i.imgur.com/bcnuL8O.png">
+<img src="https://i.imgur.com/OLAkD0Y.png">
 TCP/IP Client Server Communication in .NET Core
