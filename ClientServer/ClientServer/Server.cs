@@ -47,6 +47,7 @@ namespace ConsoleApplication
                             client.GetStream().Read(buffer, 0, buffer.Length);
 
                             message = Encoding.ASCII.GetString(buffer);
+                            Console.WriteLine("Message received: ");
                             Console.WriteLine(message);
                         }
                         Console.WriteLine("Closing connection.");
