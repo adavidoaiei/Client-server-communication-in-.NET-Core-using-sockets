@@ -1,4 +1,4 @@
-# Client Server Communication in .NET Core
+# Client Server Communication in .NET Core using sockets
 
 <img src="https://i.imgur.com/OLAkD0Y.png">
 
